@@ -9,7 +9,7 @@
 		"dark",
 		"autumn"
   ],
-  "repository": "https://github.com/atom/autumn-dark-syntax",
+  "repository": "https://github.com/matthewd673/autumn-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
