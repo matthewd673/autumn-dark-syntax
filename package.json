@@ -1,0 +1,17 @@
+{
+  "name": "autumn-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Simple autumn colors on a dark background.",
+  "keywords": [
+    "syntax",
+    "theme",
+		"dark",
+		"autumn"
+  ],
+  "repository": "https://github.com/atom/autumn-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
